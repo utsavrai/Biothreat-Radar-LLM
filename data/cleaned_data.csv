@@ -1,0 +1,54 @@
+ City,Detected diseases,Number of cases
+Belfast,Covid-19,448
+Belfast,Measles,1
+Belfast,Rotavirus,18
+Belfast,Tuberculosis,1
+Birmingham,Measles,1241
+Byker,Tuberculosis,1
+Caerphilly,Measles,11
+Cardiff,Measles,137
+Coventry,Measles,45
+Ealing,Measles,2
+Edinburgh,Covid-19,774
+Edinburgh,Rotavirus,38
+Edinburgh,Measles,1
+England,Measles,1
+Europe,Measles,1800
+Gedling,Measles,7
+Glasgow,Cholera,7
+Glasgow,Measles,2
+Hackney,Measles,356
+Hartlepool,Measles,1
+Hull,Measles,3
+Leeds,Measles,37
+Leicester,Measles,38
+Liverpool,Measles,1507
+London,Covid-19,1298
+London,Cholera,500
+London,Hepatitis,870
+London,Measles,1089
+London,Meningitis,420
+London,Rotavirus,98
+Manchester,Measles,1
+Manchester,Meningitis,1
+Middlesbrough,Measles,1
+New Orleans,Tuberculosis,3
+Newport,Measles,10
+North West,Measles,733
+Nottingham,Measles,47
+Rhondda,Measles,1
+Rhondda,Measles,11
+Rochdale,Measles,10
+Scotland,Covid-19,774
+Scotland,Measles,1
+Scotland,Rotavirus,31
+Sheffield,Measles,548
+South East,Measles,14
+South West,Measles,8
+Swansea,Measles,19
+Torfaen,Measles,1
+Vale of Glamorgan,Measles,15
+Wales,Measles,14
+West Midlands,Measles,128
+Wigan,Measles,11
+Yorkshire,Measles,11

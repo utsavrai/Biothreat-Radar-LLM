@@ -1,0 +1,42 @@
+Disease,Week 3,Week 2,Week 1,2021,2020,2019
+Acute Encephalitis/Meningitis Bacterial,0,0,0,0,0,1
+Acute Encephalitis/Meningitis Viral,0,0,0,0,0,1
+Anthrax,0,0,0,0,0,0
+Chickenpox,0,2,1,4,15,34
+Cholera,0,0,0,0,0,0
+Diphtheria,0,0,0,0,0,0
+Dysentery,0,0,0,0,3,4
+Food Poisoning,31,30,39,100,73,58
+Gastroenteritis (< 2years),0,0,0,0,3,3
+Hepatitis A,0,0,0,0,1,0
+Hepatitis B,11,0,1,12,6,5
+Hepatitis Unspecified,0,1,2,3,1,0
+Legionnaires' Disease,0,0,0,0,0,0
+Leptospirosis,0,0,0,0,0,0
+Malaria,0,0,0,0,0,0
+Measles,0,0,0,0,2,0
+Meningococcal Septicaemia,0,0,0,0,1,0
+Mumps,0,1,0,1,57,27
+Paratyphoid Fever,0,0,0,0,0,0
+Plague,0,0,0,0,0,0
+Poliomyelitis (Paralytic),0,0,0,0,0,0
+Poliomyelitis (Acute),0,0,0,0,0,0
+Rabies,0,0,0,0,0,0
+Relapsing Fever,0,0,0,0,0,0
+Rubella,0,0,0,0,0,0
+Scarlet Fever,1,0,0,1,34,14
+Smallpox,0,0,0,0,0,0
+Tetanus,0,0,0,0,1,0
+Tuberculosis (Pulmonary),0,0,0,1,1,2
+Tuberculosis (Non Pulmonary),0,0,1,0,3,1
+Typhoid,0,0,0,0,0,0
+Typhus,0,0,0,0,0,0
+Viral Haemorraghic Fever,0,0,0,0,0,0
+Whooping Cough,0,0,0,0,9,4
+Yellow Fever,0,0,0,0,0,0
+Total,43,34,44,122,210,154
+,,,,,,
+"Food poisoning notifications include those formally notified by clinicians and reports of Salmonella, Campylobacter, Cryptosporidium, Giardia, Listeria ",,,,,,
+and E Coli O 157 informally ascertained from laboratories.,,,,,,
+,,,,,,
+*Data Provisional,,,,,,

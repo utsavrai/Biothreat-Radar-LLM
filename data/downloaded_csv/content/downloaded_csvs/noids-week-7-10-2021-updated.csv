@@ -1,0 +1,42 @@
+Disease,Week 10,Week 9,Week 8,Week 7,2021,2020,2019
+Acute Encephalitis/Meningitis Bacterial,0,0,0,0,0,8,12
+Acute Encephalitis/Meningitis Viral,0,0,0,0,0,0,1
+Anthrax,0,0,0,0,0,0,0
+Chickenpox,0,2,0,2,9,52,199
+Cholera,0,0,0,0,0,0,0
+Diphtheria,0,0,0,0,0,0,0
+Dysentery,0,0,0,1,1,9,9
+Food Poisoning,49,45,41,32,345,308,215
+Gastroenteritis (< 2years),0,0,0,0,0,6,9
+Hepatitis A,0,0,0,0,4,1,1
+Hepatitis B,1,1,1,4,29,23,9
+Hepatitis Unspecified,6,1,2,1,21,4,1
+Legionnaires' Disease,0,0,0,0,1,0,0
+Leptospirosis,0,0,1,0,0,1,0
+Malaria,0,0,0,0,0,2,0
+Measles,0,0,0,0,0,3,0
+Meningococcal Septicaemia,0,0,0,0,0,4,2
+Mumps,1,2,0,0,4,281,84
+Paratyphoid Fever,0,0,0,0,0,1,0
+Plague,0,0,0,0,0,0,0
+Poliomyelitis (Paralytic),0,0,0,0,0,0,0
+Poliomyelitis (Acute),0,0,0,0,0,0,0
+Rabies,0,0,0,0,0,0,0
+Relapsing Fever,0,0,0,0,0,0,0
+Rubella,0,0,0,0,0,0,0
+Scarlet Fever,2,0,0,0,2,90,69
+Smallpox,0,0,0,0,0,0,0
+Tetanus,0,0,0,0,0,1,0
+Tuberculosis (Pulmonary),1,1,0,0,3,5,8
+Tuberculosis (Non Pulmonary),0,1,1,1,4,9,5
+Typhoid,0,0,0,0,0,0,0
+Typhus,0,0,0,0,0,0,0
+Viral Haemorraghic Fever,0,0,0,0,0,0,0
+Whooping Cough,0,0,0,0,0,25,18
+Yellow Fever,0,0,0,0,0,0,0
+Total,60,53,46,423,833,642,642
+,,,,,,,
+"Food poisoning notifications include those formally notified by clinicians and reports of Salmonella, Campylobacter, Cryptosporidium, Giardia, Listeria ",,,,,,,
+and E Coli O 157 informally ascertained from laboratories.,,,,,,,
+,,,,,,,
+*Data Provisional,,,,,,,
